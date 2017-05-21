@@ -1,0 +1,2 @@
+﻿  stdafx.cpp
+c:\git\libraries\graphs\dfs\targetver.h(8): fatal error C1083: Cannot open include file: 'SDKDDKVer.h': No such file or directory
